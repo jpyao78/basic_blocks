@@ -1,4 +1,4 @@
 ../common/gck.v
-../common/rstn_sync.v
 rtl/clk_mux.v
+rtl/clk_mux4.v
 sim/tb.v
